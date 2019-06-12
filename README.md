@@ -12,7 +12,8 @@ The current tutorial set includes:
 
 23 Jan 2019
 
-Last update: 11 Jun 2019
+Last update: 12 Jun 2019
 
 Richard Camuccio
+
 richard.camuccio01@utrgv.edu
