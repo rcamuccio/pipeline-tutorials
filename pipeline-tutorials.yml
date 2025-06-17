@@ -1,0 +1,14 @@
+name: pipeline-tutorials
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - astroplan
+  - astropy
+  - astroquery
+  - ccdproc
+  - matplotlib
+  - numpy
+  - pandas
+  - photutils
+  - reproject
